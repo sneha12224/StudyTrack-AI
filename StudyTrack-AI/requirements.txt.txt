@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+python-dotenv
+groq
+PyPDF2
+pytesseract
+Pillow
+sqlite-utils
+sqlalchemy
+ipywidgets
